@@ -1,7 +1,7 @@
 #include <iostream>
 
-int main() {
-    std::cout << "Hello, C++ Beginner!" << std::endl;
+int main() {    // Declaring Main function
+    std::cout << "Hello, C++ Beginner!" << std::endl;   // Printing to the console
 
     return 0;
 }
